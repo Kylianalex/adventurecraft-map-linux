@@ -1,0 +1,44 @@
+-----------------------------------------------------------
+current name                  new name
+-----------------------------------------------------------
+
+/thumbnail.PNG                /thumbnail.png
+/boss/slime.png               /boss/Slime.png
+/boss/Worm_head.png           /boss/worm_head.png
+/boss/Worm_tail_end.png       boss/worm_tail_end.png
+/fire/bat.png                 /fire/Bat.png
+/fire/creeper.png             /fire/Creeper.png
+/fire/skeleton.png            /fire/Skeleton.png
+/fire/skeletonBoss.png        /fire/SkeletonBoss.png
+/fire/skeletonSword.png       /fire/SkeletonSword.png
+/fire/slime.png               /fire/Slime.png
+/fire/spider.png              /fire/Spider.png
+/ice/bat.png                  /ice/Bat.png
+/ice/creeper.png              /ice/Creeper.png
+/ice/skeleton.png             /ice/Skeleton.png
+/ice/skeletonSword.png        /ice/SkeletonSword.png
+/ice/slime.png                /ice/Slime.png
+/ice/spider.png               /ice/Spider.png
+/tenebre/creeper.png          /tenebre/Creeper.png
+/tenebre/skeleton.png         /tenebre/Skeleton.png
+/tenebre/skeletonBoss.png     /tenebre/SkeletonBoss.png
+/tenebre/skeletonSword.png    /tenebre/SkeletonSword.png
+/tenebre/slime.png            /tenebre/Slime.png
+/tenebre/spider.png           /tenebre/Spider.png
+/tenebre/zombie.png           /tenebre/Zombie.png
+/tenebre/zombieBoss.png       /tenebre/ZombieBoss.png
+/gui/decompte.PNG             /gui/decompte.png
+/gui/magie3.png               /gui/magie3.PNG
+models/mob/eye.PNG            /models/mob/eye.png
+/models/mob/sluganimated.png  /models/mob/SlugAnimated.png
+/models/mob/SlugEye.PNG       /models/mob/SlugEye.png
+/models/mob/slugnoflames.png  /models/mob/SlugNoFlames.png
+/npc/invisible.png            /npc/Invisible.png
+/overlays/Ocarina_melody.png  /overlays/ocarina_melody.png
+/sprites/MenuArrows.PNG       /sprites/MenuArrows.png
+
+-----------------------------------------------------------
+need patch in code
+-----------------------------------------------------------
+
+/water/slime.png              /water/Slime.png
