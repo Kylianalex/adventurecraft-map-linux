@@ -1,0 +1,5 @@
+view the current overlay
+effect.getOverlay()
+
+view a mob texture
+hitEntity.texture
