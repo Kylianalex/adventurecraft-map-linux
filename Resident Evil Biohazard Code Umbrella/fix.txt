@@ -1,0 +1,7 @@
+-----------------------------------------------------------
+current name                  new name
+-----------------------------------------------------------
+/Overlays                     /overlays
+/overlays/Resident Evil.png   /overlays/Resident evil.png
+/overlays/Lettre.png          /overlays/lettre.png
+/overlays/Lettre2.png         /overlays/lettre2.png
