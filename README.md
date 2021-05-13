@@ -8,6 +8,7 @@ Creeper Spleef
 Argeria
 Innsbrook
 Zelda Adventure 0.9.7.3
+Resident Evil Biohazard Code Umbrella
 ```
 
 not tested maps:
@@ -20,14 +21,17 @@ Opposite Side
 1. Kestrel Mansion
 Teal Plague
 Zelda - Ganon's Return
-The Legend of Zelda; Distortion of Blood (can't be tested because I'm not German)
 Journey to the Aether
 Amnesia - Minecraft's Descent
 Zelda - The Time Changer
-Resident Evil Biohazard Code Umbrella
 Ancient Relics
 The Legent of Zelda Specter of Light English 1.5v Bonus
 VoidWars
 The Dam
+```
+
+map i can't test:
+```
+The Legend of Zelda; Distortion of Blood (can't be tested because I'm not German)
 Wormholes (can't be tested because I'm not German)
 ```
