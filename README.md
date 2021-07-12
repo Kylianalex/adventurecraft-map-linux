@@ -9,6 +9,7 @@ Argeria
 Innsbrook
 Zelda Adventure 0.9.7.3
 Resident Evil Biohazard Code Umbrella
+Ancient Relics
 ```
 
 not tested maps:
@@ -24,7 +25,6 @@ Zelda - Ganon's Return
 Journey to the Aether
 Amnesia - Minecraft's Descent
 Zelda - The Time Changer
-Ancient Relics
 The Legent of Zelda Specter of Light English 1.5v Bonus
 VoidWars
 The Dam
